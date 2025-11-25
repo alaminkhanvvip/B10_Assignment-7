@@ -1,6 +1,6 @@
 # 🏏 BPL-DREAM 11
 
-[![Deploy to Vercel](https://img.shields.io/badge/Deployed_on-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://b10-assignment-7.vercel.app/)
+[![Deploy to Netlify](https://img.shields.io/badge/Deployed_on-netlify-black?style=for-the-badge&logo=netlify&logoColor=white)](https://bpldrem11.netlify.app/)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
