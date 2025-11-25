@@ -13,7 +13,7 @@ BPL-DREAM 11 is a responsive cricket team selection platform built with React, V
 
 ## 🌐 Live Demo
 
-🔗 **[Live Preview](https://b10-assignment-7.vercel.app/)**
+🔗 **[Live Preview](https://bpldrem11.netlify.app/)**
 
 ---
 
